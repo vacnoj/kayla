@@ -1,0 +1,16 @@
+body {
+    overflow: hidden;
+    height: 100%;
+}
+
+#grad {
+    /* background: blue; */
+    background-image: linear-gradient(to right, blue , rgba(0,0,0,.3));
+    /* background-image: linear-gradient(to right, blue , rgba(203, 82, 216, 0.58)); */
+    height: 100vh;
+}
+
+.center {
+    margin: auto;
+    text-align: center;
+}
